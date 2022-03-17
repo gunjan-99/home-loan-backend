@@ -1,5 +1,8 @@
 package com.homeloan.dto;
-
+/*
+ * @author: Gunjan Vora
+ * 
+ */
 public class RegisterStatus {
 	
 	private boolean status;

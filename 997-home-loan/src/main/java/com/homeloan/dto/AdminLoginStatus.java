@@ -1,5 +1,8 @@
 package com.homeloan.dto;
-
+/*
+ * @author: Gunjan Vora
+ * 
+ */
 public class AdminLoginStatus {
 	private boolean status;
 	private String messageIfAny;
